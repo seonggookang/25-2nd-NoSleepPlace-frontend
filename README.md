@@ -9,8 +9,8 @@
 - 팀명 : NoSleepPlace 
 - 개발 기간 : 2021.10.18 ~ 2021.10.29
 - 개발 인원
-  - [FrontEnd](https://github.com/wecode-bootcamp-korea/25-2nd-NoSleepPlace-frontend) 3명 : [전태양](https://github.com/xodid157), [강성구](), [성해호]()
-  - [BackEnd](https://github.com/wecode-bootcamp-korea/25-2nd-NoSleepPlace-backend) 2명 : [문승준](), [김주현]()
+- front-end : 3
+- back-end : 2
 
 ## 🎬 프로젝트 구현 영상(사진 클릭시 유투브 링크로 연결)
 [![](https://user-images.githubusercontent.com/80348575/139586650-9d5195e7-0c74-45a2-bcff-aa2797f9894f.gif)](https://www.youtube.com/watch?v=gMjL4kwj8cE)
